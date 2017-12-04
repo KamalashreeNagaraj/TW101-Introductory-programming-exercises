@@ -1,3 +1,4 @@
+// Given a number n, print a centered diamond with your name in place of the middle line
 import java.util.Scanner;
 
 public class Assignment7 {

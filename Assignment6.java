@@ -1,3 +1,4 @@
+// Given a number n, print a centered diamond
 import java.util.Scanner;
 
 public class Assignment6 {

@@ -1,6 +1,6 @@
+// Given a number n, print n lines, each with one more asterisk than the last
 import java.util.Scanner;
 
-// Given a number n, print n lines, each with one more asterisk than the last
 public class Assignment4 {
     public static void main(String[] args) {
         Assignment4 ob = new Assignment4();
